@@ -9,6 +9,7 @@ const EstiloGlobal = createGlobalStyle`
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+  list-style: none;
 }
 
 body {

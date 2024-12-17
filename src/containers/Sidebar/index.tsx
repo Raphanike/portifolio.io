@@ -4,7 +4,7 @@ import Titulo from "../../components/Titulo"
 const  Sidebar = () => (
   <aside>
     <img src="https://github.com/Raphanike.png" />
-    <Titulo fontSize={18}>Raphael Maciel</Titulo>
+    <Titulo fontSize={17}>Raphael Maciel</Titulo>
   </aside>
 )
 
